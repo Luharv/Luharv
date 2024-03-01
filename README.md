@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luharv
 - 👀 I’m interested in hacking.
-- 🌱 I’m completed c,c++, python programming languages. 
+- 🌱 I have completed c,c++, python programming languages. 
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me Mail. 
 
